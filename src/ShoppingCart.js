@@ -22,5 +22,3 @@ module.exports = class ShoppingCart {
         },0)
     }
 }
-
-// module.exports.ShoppingCart = ShoppingCart;
